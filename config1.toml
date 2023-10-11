@@ -1,0 +1,5 @@
+[database]
+host = "192.168.163.226"
+port = 3306
+username = "gaian"
+password = "95157178"
